@@ -6,4 +6,4 @@
 그럼 이만...
 ---
 # 슬라이드 3
-![Alt text](/path/to/zoo.jpg)
+![Alt text](/zoo.jpg)
