@@ -25,7 +25,7 @@
 성격 : 속이 깊다, 공과 사가 뚜렷하다. 
 ---
 
-![Alt text](/mil.gif)
+<img width="100" height="100">![Alt text](/mil.gif)</img>
 ---
 # 이수현  
 별명 : 이순신     
