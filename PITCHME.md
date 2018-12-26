@@ -25,14 +25,14 @@
 성격 : 속이 깊다, 공과 사가 뚜렷하다. 
 ---
 
-<img width="100" height="100">![Alt text](/mil.gif)</img>
+![Alt text](/mil.gif)
 ---
 # 이수현  
 별명 : 이순신     
 성격 : 천연덕, 차분하다.     
 ---
 
-![Alt text](/da.jpg)
+<img src="/da.jpg" width="0100" height="100">
 ---
 # 정동준  
 
