@@ -6,7 +6,7 @@
 그럼 이만...
 ---
 # 슬라이드 3
-![Alt text](/zoo.jpg)
+![Alt text](/zoo.jpg)<img width="100" height="10"></img>
 ---
 샾이 없으면?
 ---
