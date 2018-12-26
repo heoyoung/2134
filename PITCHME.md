@@ -1,6 +1,6 @@
 ---
-# <span style = "color:blue">2134
-두글자 한명과 세글자 네명</span>
+# <span style="color:blue">some *2134
+두글자 한명과 세글자 네명* text</span>
 ---
 # 팀원들의 이름과   
 별명, 성격  
