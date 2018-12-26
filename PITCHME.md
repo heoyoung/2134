@@ -31,7 +31,7 @@
 별명 : 이순신     
 성격 : 천연덕, 차분하다.     
 ---
-<img src="/da.jpg" width="100" height="100">   
+<img src="/da.jpg" width="300" height="300">   
 
 ---
 # 정동준  
