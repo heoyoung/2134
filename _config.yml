@@ -11,17 +11,17 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : mmistakes/minimal-mistakes
-minimal_mistakes_skin    : "plum" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "sunrise"
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "2134"
+title                    : "SSAFY GwangJu 2 2134"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : "https://heoyoung.github.io"
-baseurl                  : "2134"
+name                     : "SAY"
+description              : "SSAFY 광주 2반 2134"
+url                      : "https://heoyoung.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/2134" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -103,10 +103,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "SSAFY 2018-2019"
+  avatar           : "/images/ssafy_logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Samsung Software Academy For Youth"
+  location         : 
   email            :
   links:
     - label: "Email"
@@ -285,10 +285,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
       comments: # true
-      share: true
-      related: true
-
-theme: jekyll-theme-cayman
+      share: false
+      related: false
